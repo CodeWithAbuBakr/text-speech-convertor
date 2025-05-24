@@ -1,5 +1,5 @@
 # Text Speech Converter
-A simple and efficient text-to-speech converter web application that allows users to enter text and listen to it in different voices. It features a clean UI, responsive design, and a smooth user experience. 🚀
+A simple and efficient text-to-speech converter web application that allows users to enter text and listen to it in different voices. It features a clean UI, responsive design, and a smooth user experience.🚀
 
 ## Table of Contents
 - [Live Demo 🌐](#demo)
